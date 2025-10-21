@@ -6,7 +6,7 @@ const Feature = () => {
 
     return (
         <>
-        <div className='flex flex-col items-center my-10 scroll-mt-12'>
+        <div id='features' className='flex flex-col items-center my-10 scroll-mt-12'>
 
                 <div className="flex items-center  gap-2 text-sm text-green-500 bg-green-400/10 border border-green-200 rounded-full px-6 py-1.5">
                  <Zap width={14} />
